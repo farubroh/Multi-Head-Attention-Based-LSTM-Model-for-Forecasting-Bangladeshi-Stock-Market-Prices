@@ -26,7 +26,7 @@
   <h2>Citation</h2>
     <p>If you use this repository or its findings in your work, please cite our paper as follows:</p>
     <blockquote>
-        <p>Multi-Head Attention Based LSTM Model for Forecasting Bangladeshi Stock Market Prices. [Conference Name/Journal], [Year].</p>
+        <p>Multi-Head Attention Based LSTM Model for Forecasting Bangladeshi Stock Market Prices. 22nd IEEE International Conference on Computer Applications (IEEE-ICCA).</p>
     </blockquote>
 
    <h2>Contact</h2>
